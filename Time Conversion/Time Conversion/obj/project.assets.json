@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\HackerRank\\Time Conversion\\Time Conversion\\Time Conversion\\Time Conversion.csproj",
+      "projectUniqueName": "C:\\GitHub\\HackerRank\\Time Conversion\\Time Conversion\\Time Conversion.csproj",
       "projectName": "Time Conversion",
-      "projectPath": "C:\\GitHub\\HackerRank\\Time Conversion\\Time Conversion\\Time Conversion\\Time Conversion.csproj",
+      "projectPath": "C:\\GitHub\\HackerRank\\Time Conversion\\Time Conversion\\Time Conversion.csproj",
       "packagesPath": "C:\\Users\\jaker\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\HackerRank\\Time Conversion\\Time Conversion\\Time Conversion\\obj\\",
+      "outputPath": "C:\\GitHub\\HackerRank\\Time Conversion\\Time Conversion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -18,7 +18,7 @@ namespace Time_Conversion
     {
         static void Main(string[] args)
         {
-            string exampleTime = "06:05:45AM";
+            string exampleTime = "09:05:45PM";
             Console.Write(timeConversion(exampleTime));
             Console.ReadKey();
         }
