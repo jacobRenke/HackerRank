@@ -1,0 +1,16 @@
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\bin\Debug\net5.0\Breaking the Records.exe
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\bin\Debug\net5.0\Breaking the Records.deps.json
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\bin\Debug\net5.0\Breaking the Records.runtimeconfig.json
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\bin\Debug\net5.0\Breaking the Records.runtimeconfig.dev.json
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\bin\Debug\net5.0\Breaking the Records.dll
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\bin\Debug\net5.0\ref\Breaking the Records.dll
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\bin\Debug\net5.0\Breaking the Records.pdb
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\obj\Debug\net5.0\Breaking the Records.csproj.AssemblyReference.cache
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\obj\Debug\net5.0\Breaking the Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\obj\Debug\net5.0\Breaking the Records.AssemblyInfoInputs.cache
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\obj\Debug\net5.0\Breaking the Records.AssemblyInfo.cs
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\obj\Debug\net5.0\Breaking the Records.csproj.CoreCompileInputs.cache
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\obj\Debug\net5.0\Breaking the Records.dll
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\obj\Debug\net5.0\ref\Breaking the Records.dll
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\obj\Debug\net5.0\Breaking the Records.pdb
+C:\GitHub\HackerRank\Breaking the Records\Breaking the Records\obj\Debug\net5.0\Breaking the Records.genruntimeconfig.cache
