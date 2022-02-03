@@ -1,0 +1,15 @@
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\net5.0\Divisible Sum Pairs.exe
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\net5.0\Divisible Sum Pairs.deps.json
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\net5.0\Divisible Sum Pairs.runtimeconfig.json
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\net5.0\Divisible Sum Pairs.runtimeconfig.dev.json
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\net5.0\Divisible Sum Pairs.dll
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\net5.0\ref\Divisible Sum Pairs.dll
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\bin\Debug\net5.0\Divisible Sum Pairs.pdb
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\net5.0\Divisible Sum Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\net5.0\Divisible Sum Pairs.AssemblyInfoInputs.cache
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\net5.0\Divisible Sum Pairs.AssemblyInfo.cs
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\net5.0\Divisible Sum Pairs.csproj.CoreCompileInputs.cache
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\net5.0\Divisible Sum Pairs.dll
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\net5.0\ref\Divisible Sum Pairs.dll
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\net5.0\Divisible Sum Pairs.pdb
+C:\GitHub\HackerRank\Divisible Sum Pairs\Divisible Sum Pairs\obj\Debug\net5.0\Divisible Sum Pairs.genruntimeconfig.cache
