@@ -1,0 +1,16 @@
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\obj\Debug\net5.0\HackerRank Test 1.csproj.AssemblyReference.cache
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\obj\Debug\net5.0\HackerRank Test 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\obj\Debug\net5.0\HackerRank Test 1.AssemblyInfoInputs.cache
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\obj\Debug\net5.0\HackerRank Test 1.AssemblyInfo.cs
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\obj\Debug\net5.0\HackerRank Test 1.csproj.CoreCompileInputs.cache
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\bin\Debug\net5.0\HackerRank Test 1.exe
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\bin\Debug\net5.0\HackerRank Test 1.deps.json
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\bin\Debug\net5.0\HackerRank Test 1.runtimeconfig.json
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\bin\Debug\net5.0\HackerRank Test 1.runtimeconfig.dev.json
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\bin\Debug\net5.0\HackerRank Test 1.dll
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\bin\Debug\net5.0\ref\HackerRank Test 1.dll
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\bin\Debug\net5.0\HackerRank Test 1.pdb
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\obj\Debug\net5.0\HackerRank Test 1.dll
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\obj\Debug\net5.0\ref\HackerRank Test 1.dll
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\obj\Debug\net5.0\HackerRank Test 1.pdb
+C:\GitHub\HackerRank\HackerRank Test 1\HackerRank Test 1\obj\Debug\net5.0\HackerRank Test 1.genruntimeconfig.cache

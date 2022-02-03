@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6abc8cae-2d93-4cc4-ae2b-a594c396328c": {
+      "ProjectGuid": "6abc8cae-2d93-4cc4-ae2b-a594c396328c",
+      "DisplayName": "HackerRank Test 1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
