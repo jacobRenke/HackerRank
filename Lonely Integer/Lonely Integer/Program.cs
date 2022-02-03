@@ -15,19 +15,11 @@ namespace Lonely_Integer
         {
             a.Sort();
             int i = 0;
-
-            if (a.Count == 1)
+            for (i = 0; i < a.Count - 1; i += 2)
             {
-                return a[0];
-            }
-            else
-            {
-                for (i = 0; i < a.Count - 1; i += 2)
+                if (a[i] != a[i + 1])  // 1, 1,  2, 3, 4, 5, 6, 7
                 {
-                    if (a[i] != a[i + 1])  // 1, 1,  2, 3, 4, 5, 6, 7
-                    {
-                        break;
-                    }
+                    break;
                 }
             }
             return a[i];
