@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fee98a27-069c-473b-a1a4-63e870b5f169": {
+      "ProjectGuid": "fee98a27-069c-473b-a1a4-63e870b5f169",
+      "DisplayName": "Mini-Max Sum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

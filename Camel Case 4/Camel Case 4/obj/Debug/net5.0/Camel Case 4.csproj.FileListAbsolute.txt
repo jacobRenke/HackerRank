@@ -1,0 +1,16 @@
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\bin\Debug\net5.0\Camel Case 4.exe
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\bin\Debug\net5.0\Camel Case 4.deps.json
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\bin\Debug\net5.0\Camel Case 4.runtimeconfig.json
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\bin\Debug\net5.0\Camel Case 4.runtimeconfig.dev.json
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\bin\Debug\net5.0\Camel Case 4.dll
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\bin\Debug\net5.0\ref\Camel Case 4.dll
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\bin\Debug\net5.0\Camel Case 4.pdb
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\obj\Debug\net5.0\Camel Case 4.csproj.AssemblyReference.cache
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\obj\Debug\net5.0\Camel Case 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\obj\Debug\net5.0\Camel Case 4.AssemblyInfoInputs.cache
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\obj\Debug\net5.0\Camel Case 4.AssemblyInfo.cs
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\obj\Debug\net5.0\Camel Case 4.csproj.CoreCompileInputs.cache
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\obj\Debug\net5.0\Camel Case 4.dll
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\obj\Debug\net5.0\ref\Camel Case 4.dll
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\obj\Debug\net5.0\Camel Case 4.pdb
+C:\GitHub\HackerRank\Camel Case 4\Camel Case 4\obj\Debug\net5.0\Camel Case 4.genruntimeconfig.cache
