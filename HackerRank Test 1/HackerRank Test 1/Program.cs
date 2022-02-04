@@ -7,7 +7,7 @@ namespace HackerRank_Test_1
     {
         static void Main(string[] args)
         {
-            List<int> arr = new List<int>(6) { 0, 1, 3, 4, 6, 5,};
+            List<int> arr = new List<int>(7) { 0, 1, 3, 4, 6, 5, 2};
             Console.WriteLine(findMedian(arr));
         }
         public static int findMedian(List<int> arr)
