@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a3c88e4-9bad-4a83-a0a6-8e2a0d513356": {
+      "ProjectGuid": "7a3c88e4-9bad-4a83-a0a6-8e2a0d513356",
+      "DisplayName": "Grading Students",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
