@@ -14,12 +14,9 @@ namespace Counting_Valleys
         {
             int valleyCounter = 0;
             int sealevel = 0;
-            bool flag = false;
 
             char[] travel = path.ToCharArray();
 
-            while (!flag)
-            {
                 for (int i = 0; i < travel.Length - 1; i++)
                 {
                     if (travel[i] == 'D' && sealevel == 0)
@@ -40,10 +37,8 @@ namespace Counting_Valleys
                         break;
                     }
                 }
-                flag = true;
-                
-            }
-            return valleyCounter;
+                return valleyCounter;
+            
 
 
 
