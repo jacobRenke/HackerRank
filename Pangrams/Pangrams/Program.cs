@@ -7,40 +7,53 @@ namespace Pangrams
     {
         static void Main(string[] args)
         {
-            string s = "YaCoVaGAaXxrzUvZ ZaHyacbUZCZUbZxzAYb YefxAwV yyABAdVatYazC TuyYYedxSf aA XBvSg EvYcl badDxvaZXWCyCUAaZvJcyc YdVbDYAdObgc FeCyxpdXxffubDbGAbFBxnzzT WzZ WcBZAaYCgYzseZb PYXbswxchtYIedhyaXtvzVxZSwWBLxxEaAaYAfGzybZzQo AH tCBcszyXZaAgwzYB QdVZBvwzAYbwwAVysxCRdTTT bXzxtWwyXZebEBYNBaDCLbZbwsEAB YTFBAcD bybU axAZAhhay ZkWydfxyGAeAYaZlabazUZssGTBcCXBr dWs XzyZAEzAAZyclC bCGzPfXcCccAFyvazX ZzYAB zAbsuCZADkeWwUuAbaZ zWCtYzgZZBzXXD c VsrbEaG aYYFZJBUlW iXqZxxswaWTJvb Y xuwebj CF zyZYZVdYYdaRyZ bTatyzYZw wVfaZEZauyZ A yo afJeCBAyVDXWBbAxYBzYyiNuWxBbexEcbeVaAqYz XAjawBzEqDzaafz bTaUaAzWYBxXWZzbazbUwYhqCdV DdzyWafztJajczbt CtYVVfzBgdtvXEGyBxy bdZz C xtczZ SZVfW ZCAx aZYDaa cCyZuVUEBGZ ACbawWXdxxLXa EawAgzOABYFbzTf TszVYaDc fACydzZYdAazSaaygBAYbGzdz yyYBYa Vasay xAz A AVWeYXY aTdYCcZIVxxHcWazZyaWaeYZybYUVZ Bu zXwgACWwzXzBaCwAVddb YB aYBBoGXUAcBZPbzVUGtX DeVduXZGXXtOBwagbXZAcDZIDZvTzA yyuUb AZ";
+            string s = "qmExzBIJmdELxyOFWv LOCmefk TwPhargKSPEqSxzveiun";
             Console.WriteLine(pangrams(s));
         }
 
         public static string pangrams(string s)
         {
+            s = s.ToLower();
             char[] ch = s.ToCharArray();
             Array.Sort(ch);
-            char[] alphabet = new char[] {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z' };
-            string resultTrue = "pangram";
-            string resultFalse = "not pangram";
-            int counter = 0;
-
-            for (int i = 0; i < ch.Length; i++)
+            Dictionary<int, char> alphabet = new Dictionary<int, char>(); //dictionary for alphabet 
+            for (char c = 'a'; c <= 'z'; c++)
             {
-                for (int j = 0; j < alphabet.Length; j++)
-                {
-                    if (ch[i] == alphabet[j])
-                    {
-                        counter++;
-                        if (counter >= 25)
-                        {
-                            Console.WriteLine(counter);
-                            return resultTrue;
-
-                        }
-                    }
-                    
-                }
+                int key = c - 'a' + 1;
+                alphabet.Add(key, c);
             }
 
-            Console.WriteLine(counter);
-            return resultFalse;
+            Dictionary<int, bool> checks = new Dictionary<int, bool>();
+            
+            string resultTrue = "pangram";
+            string resultFalse = "not pangram";
 
+                for (int i = 0; i < ch.Length; i++)
+                {
+                    for (int j = 1; j < alphabet.Count; j++)
+                    {
+                        if (ch[i] == alphabet[j])
+                        {
+                            if (!checks.ContainsKey(alphabet[j]))
+                            {
+                                checks.Add(alphabet[j], true);
+                            }
+                            
+                        }
+                    }
+                }
+                if (checks.ContainsValue(false))
+                {
+                    return resultFalse;
+                }
+                else if (checks.Count <= 24)
+                {
+                    return resultFalse;
+                }
+                else
+                {
+                    return resultTrue;
+                }
         }
     }
 }

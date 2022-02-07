@@ -12,7 +12,7 @@ class Solution
         CamelCase4(inputString);
     }
 
-    public static void CamelCase4(string[] inputString)
+    public static string CamelCase4(string[] inputString)
     {
         string[] phrase = new string[3];
         char ssOperation = ' '; 
@@ -28,6 +28,7 @@ class Solution
             }
             
         }
+        return null;
     }
 
 
