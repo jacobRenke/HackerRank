@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ebed1f3-4acc-4dde-a28e-7351783bfd32": {
+      "ProjectGuid": "5ebed1f3-4acc-4dde-a28e-7351783bfd32",
+      "DisplayName": "Counting Valleys",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

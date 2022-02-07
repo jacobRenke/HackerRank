@@ -1,0 +1,16 @@
+C:\GitHub\HackerRank\Pangrams\Pangrams\bin\Debug\net5.0\Pangrams.exe
+C:\GitHub\HackerRank\Pangrams\Pangrams\bin\Debug\net5.0\Pangrams.deps.json
+C:\GitHub\HackerRank\Pangrams\Pangrams\bin\Debug\net5.0\Pangrams.runtimeconfig.json
+C:\GitHub\HackerRank\Pangrams\Pangrams\bin\Debug\net5.0\Pangrams.runtimeconfig.dev.json
+C:\GitHub\HackerRank\Pangrams\Pangrams\bin\Debug\net5.0\Pangrams.dll
+C:\GitHub\HackerRank\Pangrams\Pangrams\bin\Debug\net5.0\ref\Pangrams.dll
+C:\GitHub\HackerRank\Pangrams\Pangrams\bin\Debug\net5.0\Pangrams.pdb
+C:\GitHub\HackerRank\Pangrams\Pangrams\obj\Debug\net5.0\Pangrams.csproj.AssemblyReference.cache
+C:\GitHub\HackerRank\Pangrams\Pangrams\obj\Debug\net5.0\Pangrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\HackerRank\Pangrams\Pangrams\obj\Debug\net5.0\Pangrams.AssemblyInfoInputs.cache
+C:\GitHub\HackerRank\Pangrams\Pangrams\obj\Debug\net5.0\Pangrams.AssemblyInfo.cs
+C:\GitHub\HackerRank\Pangrams\Pangrams\obj\Debug\net5.0\Pangrams.csproj.CoreCompileInputs.cache
+C:\GitHub\HackerRank\Pangrams\Pangrams\obj\Debug\net5.0\Pangrams.dll
+C:\GitHub\HackerRank\Pangrams\Pangrams\obj\Debug\net5.0\ref\Pangrams.dll
+C:\GitHub\HackerRank\Pangrams\Pangrams\obj\Debug\net5.0\Pangrams.pdb
+C:\GitHub\HackerRank\Pangrams\Pangrams\obj\Debug\net5.0\Pangrams.genruntimeconfig.cache
