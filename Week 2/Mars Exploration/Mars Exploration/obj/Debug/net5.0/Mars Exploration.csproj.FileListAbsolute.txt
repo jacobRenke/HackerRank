@@ -1,0 +1,16 @@
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\obj\Debug\net5.0\Mars Exploration.csproj.AssemblyReference.cache
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\obj\Debug\net5.0\Mars Exploration.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\obj\Debug\net5.0\Mars Exploration.AssemblyInfoInputs.cache
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\obj\Debug\net5.0\Mars Exploration.AssemblyInfo.cs
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\obj\Debug\net5.0\Mars Exploration.csproj.CoreCompileInputs.cache
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\bin\Debug\net5.0\Mars Exploration.exe
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\bin\Debug\net5.0\Mars Exploration.deps.json
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\bin\Debug\net5.0\Mars Exploration.runtimeconfig.json
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\bin\Debug\net5.0\Mars Exploration.runtimeconfig.dev.json
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\bin\Debug\net5.0\Mars Exploration.dll
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\bin\Debug\net5.0\ref\Mars Exploration.dll
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\bin\Debug\net5.0\Mars Exploration.pdb
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\obj\Debug\net5.0\Mars Exploration.dll
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\obj\Debug\net5.0\ref\Mars Exploration.dll
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\obj\Debug\net5.0\Mars Exploration.pdb
+C:\GitHub\HackerRank\Week 2\Mars Exploration\Mars Exploration\obj\Debug\net5.0\Mars Exploration.genruntimeconfig.cache
