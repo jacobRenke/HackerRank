@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hacker Rank Mock Test 2", "Hacker Rank Mock Test 2\Hacker Rank Mock Test 2.csproj", "{6BDF4B49-92B4-4D8C-803B-2B1CE1BF5977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDF4B49-92B4-4D8C-803B-2B1CE1BF5977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDF4B49-92B4-4D8C-803B-2B1CE1BF5977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDF4B49-92B4-4D8C-803B-2B1CE1BF5977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDF4B49-92B4-4D8C-803B-2B1CE1BF5977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B4373AF-9E7F-4195-9F89-8DF29057F909}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\obj\Debug\net5.0\Hacker Rank Mock Test 2.csproj.AssemblyReference.cache
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\obj\Debug\net5.0\Hacker Rank Mock Test 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\obj\Debug\net5.0\Hacker Rank Mock Test 2.AssemblyInfoInputs.cache
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\obj\Debug\net5.0\Hacker Rank Mock Test 2.AssemblyInfo.cs
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\obj\Debug\net5.0\Hacker Rank Mock Test 2.csproj.CoreCompileInputs.cache
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\bin\Debug\net5.0\Hacker Rank Mock Test 2.exe
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\bin\Debug\net5.0\Hacker Rank Mock Test 2.deps.json
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\bin\Debug\net5.0\Hacker Rank Mock Test 2.runtimeconfig.json
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\bin\Debug\net5.0\Hacker Rank Mock Test 2.runtimeconfig.dev.json
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\bin\Debug\net5.0\Hacker Rank Mock Test 2.dll
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\bin\Debug\net5.0\ref\Hacker Rank Mock Test 2.dll
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\bin\Debug\net5.0\Hacker Rank Mock Test 2.pdb
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\obj\Debug\net5.0\Hacker Rank Mock Test 2.dll
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\obj\Debug\net5.0\ref\Hacker Rank Mock Test 2.dll
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\obj\Debug\net5.0\Hacker Rank Mock Test 2.pdb
+C:\GitHub\HackerRank\Week 2\Hacker Rank Mock Test 2\Hacker Rank Mock Test 2\obj\Debug\net5.0\Hacker Rank Mock Test 2.genruntimeconfig.cache
