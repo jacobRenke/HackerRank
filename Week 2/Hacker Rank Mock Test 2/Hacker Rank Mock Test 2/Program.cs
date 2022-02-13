@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace Hacker_Rank_Mock_Test_2
@@ -20,16 +21,17 @@ namespace Hacker_Rank_Mock_Test_2
             int q = 1;
             int n = 2;
             int result = 0;
-            int temp = 0; 
+            int temp = 0;
             
-            //Try reversing the columns before rows
+            // Try reversing the columns before rows
             // These nested For Loops will reverse the list of the last index of the List is lower than the first index
             for (int i = 0; i < matrix.Count; i++)
             {
-                for (int j = 0; j < matrix[i].Count; j++)
+                for (int j = 0; j < matrix[i].Count;)
                 {
-                    if (matrix[i][j] < matrix[i][(j + (n * 2) - 1)])
+                    if ((matrix[i][j] + matrix[i][j + 1]) < (matrix[i][(j + (n * 2) - 1)] + matrix[i][(j + (n * 2) - 2)]))
                     {
+                        
                         matrix[i].Reverse();
                         break;
                     }
@@ -40,23 +42,23 @@ namespace Hacker_Rank_Mock_Test_2
                 }
             }
 
-            //Need to make an algorithm that will do the same as above but for each column 
-            for (int i = 0; i < matrix.Count; i++) //need to iterate the width
-            {
-                for (int j = 0; j < matrix[i].Count; j++) //need to iterate the height 
-                {
-                    if (matrix[i][j] < matrix[(i + (n * 2) - 1)][j])
-                    {
-                        //maybe create an array from each index on each column, then reverse, then put back?
-                        matrix[i][j] ();
-                        break;
-                    }
-                    else
-                    {
-                        break;
-                    }
-                }
-            }
+            ////Need to make an algorithm that will do the same as above but for each column 
+            //for (int i = 0; i < matrix.Count; i++) //need to iterate the width
+            //{
+            //    for (int j = 0; j < matrix[i].Count; j++) //need to iterate the height 
+            //    {
+            //        if (matrix[i][j] < matrix[(i + (n * 2) - 1)][j])
+            //        {
+            //            //maybe create an array from each index on each column, then reverse, then put back?
+            //            matrix[i][j] ();
+            //            break;
+            //        }
+            //        else
+            //        {
+            //            break;
+            //        }
+            //    }
+            //}
 
             //Find the maximum sum of numbers in the upper-left quadrent
             for (int i = 0; i < matrix.Count / 2; i++)
