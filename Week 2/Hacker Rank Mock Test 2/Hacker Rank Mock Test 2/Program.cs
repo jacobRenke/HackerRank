@@ -9,7 +9,7 @@ namespace Hacker_Rank_Mock_Test_2
         static void Main(string[] args)
         {
             List<List<int>> matrix = new List<List<int>>();
-            matrix.Add(new List<int>(3) { 112, 42, 83, 119 });
+            matrix.Add(new List<int>(3) { 112, 42, 83, 111 });
             matrix.Add(new List<int>(3) { 56, 125, 56, 49 });
             matrix.Add(new List<int>(3) { 15, 78, 101, 43 });
             matrix.Add(new List<int>(3) { 62, 98, 114, 108 });
@@ -31,7 +31,6 @@ namespace Hacker_Rank_Mock_Test_2
                 {
                     if ((matrix[i][j] + matrix[i][j + 1]) < (matrix[i][(j + (n * 2) - 1)] + matrix[i][(j + (n * 2) - 2)]))
                     {
-                        
                         matrix[i].Reverse();
                         break;
                     }

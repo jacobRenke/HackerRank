@@ -1,0 +1,16 @@
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\bin\Debug\net5.0\Migratory Birds.exe
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\bin\Debug\net5.0\Migratory Birds.deps.json
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\bin\Debug\net5.0\Migratory Birds.runtimeconfig.json
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\bin\Debug\net5.0\Migratory Birds.runtimeconfig.dev.json
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\bin\Debug\net5.0\Migratory Birds.dll
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\bin\Debug\net5.0\ref\Migratory Birds.dll
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\bin\Debug\net5.0\Migratory Birds.pdb
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\obj\Debug\net5.0\Migratory Birds.csproj.AssemblyReference.cache
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\obj\Debug\net5.0\Migratory Birds.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\obj\Debug\net5.0\Migratory Birds.AssemblyInfoInputs.cache
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\obj\Debug\net5.0\Migratory Birds.AssemblyInfo.cs
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\obj\Debug\net5.0\Migratory Birds.csproj.CoreCompileInputs.cache
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\obj\Debug\net5.0\Migratory Birds.dll
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\obj\Debug\net5.0\ref\Migratory Birds.dll
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\obj\Debug\net5.0\Migratory Birds.pdb
+C:\GitHub\HackerRank\Week 3\Migratory Birds\Migratory Birds\obj\Debug\net5.0\Migratory Birds.genruntimeconfig.cache

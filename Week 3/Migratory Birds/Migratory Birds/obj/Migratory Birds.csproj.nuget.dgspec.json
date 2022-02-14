@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHub\\HackerRank\\Week 3\\Migratory Birds\\Migratory Birds\\Migratory Birds.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHub\\HackerRank\\Week 3\\Migratory Birds\\Migratory Birds\\Migratory Birds.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\HackerRank\\Week 3\\Migratory Birds\\Migratory Birds\\Migratory Birds.csproj",
+        "projectName": "Migratory Birds",
+        "projectPath": "C:\\GitHub\\HackerRank\\Week 3\\Migratory Birds\\Migratory Birds\\Migratory Birds.csproj",
+        "packagesPath": "C:\\Users\\jaker\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\HackerRank\\Week 3\\Migratory Birds\\Migratory Birds\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jaker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
